@@ -1,4 +1,4 @@
-# Introduction to Numerical Python for Engineers [YouTube](https://www.youtube.com/watch?v=sY1_SU1U_3E)
+# Introduction to Numerical Python for Engineers, [YouTube](https://www.youtube.com/watch?v=sY1_SU1U_3E)
 
 **Hello**! Numerical programming is becoming a key skill for modern engineers and you will need to use Python in some of your modules for labs and coursework. This is a quick introduction to numerical programming in [Python](https://www.python.org/) using a set of interactive  [Jupyter](https://jupyter.org/) notebooks. 
 1. [Python Basics](https://colab.research.google.com/github/weymouth/NumericalPython/blob/main/01PythonBasics.ipynb)
